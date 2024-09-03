@@ -1,4 +1,3 @@
-# IBM-AI-Developer-Professional-Certificate
 # IBM AI Developer Professional Certificate
 
 **Professional Certificate - 10 course series available on Coursera**
